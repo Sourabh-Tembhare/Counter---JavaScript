@@ -1,0 +1,1 @@
+🧮 Count Master – A Simple Counter App  A lightweight web app built with HTML, CSS, and JavaScript that lets you:  ➕ Increment the counter  ➖ Decrement the counter  🔄 Reset the counter  ✨ Clean UI with responsive design and interactive buttons.
